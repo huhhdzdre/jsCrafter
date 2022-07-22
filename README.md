@@ -1,5 +1,9 @@
 ### Hi Everyone 👋
-
+- I'm @jsCrafter
+- 👀 I get into the program early in my age. At that time, I’m so interested in 
+- 🌱 I’m currently learning in Bun.js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 <!--
 **jsCrafter/jsCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
