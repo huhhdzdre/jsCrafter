@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @jsCrafter 👋
 - 👀 I get into the program early in my age. At that time, I’m so interested in JS world.
-- 🌱 I’m currently learning in Bun.js
+- 🔭 I’m currently learning in Bun.js
 - 📫 live:.cid.cc901cfeca9bb95f
 <!--
 **jsCrafter/jsCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
